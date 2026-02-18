@@ -1,0 +1,2 @@
+1.to write a text we need text tage 
+2.view is like a div 
